@@ -14,3 +14,7 @@ Download [pre-trained model](https://github.com/foamliu/Simple-Colorization/rele
 ```bash
 $ python demo.py
 ```
+
+![image](https://github.com/foamliu/Simple-Colorization/raw/master/images/sample.png)
+
+![image](https://github.com/foamliu/Simple-Colorization/raw/master/images/output.png)
