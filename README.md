@@ -9,7 +9,7 @@ Bare minimal code to run colorization demo.
 - [OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/)
 
 ## Demo
-Download [pre-trained model](https://github.com/foamliu/Colorful-Image-Colorization/releases/download/v1.0/model.06-2.5489.hdf5) into "models" folder then run:
+Download [pre-trained model](https://github.com/foamliu/Simple-Colorization/releases/download/v1.0/model.08-5.7380.hdf5) into "models" folder then run:
 
 ```bash
 $ python demo.py
