@@ -7,7 +7,7 @@ from utils import predict
 
 if __name__ == '__main__':
     image_folder = 'images'
-    image_name = os.path.join(image_folder, 'sample.png')
+    image_name = os.path.join(image_folder, 'Channel01.png')
     gray = cv.imread(image_name, 0)
     out = predict(gray)
 
